@@ -1,0 +1,9 @@
+#borde-exterior {
+    
+    width: 43em; /* Ancho del rectángulo */
+    height: 20em; /* Altura del rectángulo */
+    background-color: #333435; 
+    border: 0.5em solid #f5210a;
+    border-radius: 15%;
+
+}
