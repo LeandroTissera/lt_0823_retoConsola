@@ -4,6 +4,28 @@
     height: 20em; /* Altura del rectángulo */
     background-color: #333435; 
     border: 0.5em solid #f5210a;
-    border-radius: 15%;
+    display: flex;
+    }
+
+#izquierda {
+    width: 11em;
+    height: 20em;
+    background-color: blue;
+    border-top-left-radius: 15%;
+    border-bottom-left-radius: 15%;
+}
+#derecho {
+    width: 11em;
+    height: 20em;
+    background-color: rgb(77, 255, 0);
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+    margin-left: auto;
+    
+      
+      
+}
+
+#centro {
 
 }
