@@ -13,24 +13,11 @@
     height: 21em;
     background-color: transparent;
     border: 0.5em solid #2f2f2f;
-    
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-#c-ext-izq{
-    width: 44em;
-    height: 21em;
-    background-color: blue
-}
-
-#c-ext-der {
-
-    width: 44em;
-    height: 21em;
-    background-color:pink
-}
 #izquierda {
     width: 10em;
     height: 20em;
@@ -86,6 +73,8 @@
     background-color: rgb(110, 110, 110);
     border-top-right-radius: 15%;
     border-bottom-right-radius: 15%;
+    background: linear-gradient(to right, #686968f9 10%, #afaeae5e 90%);
+
     float: right;
 }
 
