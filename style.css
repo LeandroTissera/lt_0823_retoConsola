@@ -2,7 +2,7 @@
     width: 44em;
     height: 20em;
     background-color: transparent;
-    border: 0.5em solid #454444;
+    /* border: 0.5em solid #454444; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -15,6 +15,9 @@
     border-bottom-left-radius: 15%;
     background: linear-gradient(to left, #686968f9 10%, #69686896 90%);
     float: left;
+    border-top-style: double;
+    border-left-style: double;
+    border-bottom-style: double;
 }
 
 #centro {
@@ -24,6 +27,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top-style: double;
+    border-bottom-style: double;
 }
 
 #pantalla {
@@ -64,6 +69,9 @@
     border-bottom-right-radius: 15%;
     background: linear-gradient(to right, #686968f9 10%, #69686896 90%);
     float: right;
+    border-right-style: double;
+    border-bottom-style: double;
+    border-top-style: double;
 }
 
 #lado-izquierdo {
@@ -78,7 +86,7 @@
     border-bottom-right-radius: 8%;
     border-style: groove;
     border-color: #2f2f2f;
-    margin-left: 5%;
+    margin-left: 3%;
     margin-top: 4%;
 }
 
@@ -145,7 +153,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 #cuadrado6 {
@@ -207,7 +215,7 @@
     border-bottom-right-radius: 15%;
     border-style: groove;
     border-color: #2f2f2f;
-    margin-left: 5%;
+    margin-left: 2%;
     margin-top: 4%;
 }
 
@@ -228,7 +236,7 @@
     height: 1.2em;
     border-radius: 50%;
     background-color: rgb(54, 52, 52);
-    margin-left: 2%;
+    margin-left: 3%;
     border: 0.1em solid rgb(126, 121, 121);
 }
 
@@ -349,7 +357,7 @@
     font-size: 0.7em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    margin-left: -45%;
+    margin-left: -50%;
     margin-top: 7%;
 }
 
@@ -357,6 +365,6 @@
     font-size: 0.7em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    margin-left: 50%;
+    margin-left: 35%;
     margin-top: 9%;
 }
