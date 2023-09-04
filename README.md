@@ -21,11 +21,9 @@
 
 ### Descripción del proyecto
 
-En este primer proyecto académico, se nos encargó la reproducción de una consola a elección. El objetivo es el aprendizaje de las herramientas y propiedades de CSS.
+En este primer proyecto, realice la reproducción de una consola a elección. El objetivo es el aprendizaje de las herramientas y propiedades de HTML y CSS.
 
 Como se puede ver se trata de una reproducción -salvando las diferencias- de la videoconsola portátil Game & Watch: ZHISHAN Consola de juegos de mano para niños con pantalla de 3 pulgadas, con 270 videojuegos clásicos retro. Conocidas popularmente en España como **"maquinitas"**.
-
-![Consola modelo](image.png)
 
 ### Acceso
 
@@ -52,7 +50,7 @@ Este proyecto ha sido realizado únicamente por mí.
 
 ### Contribuyentes y agradecimiento
 
-Agradecimiento absoluto a los cursos on-line, por su ayuda en las distintas fases del proyecto.
+Agradezco a los profesionales que generan cursos on line, por compartir sus conocimientos con los nuevos programadores, y por su ayuda en las distintas fases del proyecto.
 
 ### Licencia
 
